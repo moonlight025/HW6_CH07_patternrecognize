@@ -1,0 +1,1 @@
+# HW6_CH07_patternrecognize
